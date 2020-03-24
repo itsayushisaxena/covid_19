@@ -1,0 +1,26 @@
+,S. No.,Name of State / UT,Total Confirmed cases (Indian National),Total Confirmed cases ( Foreign National ),Cured/Discharged/Migrated,Death
+0,1,Andhra Pradesh,8,0,0,0
+1,2,Bihar,3,0,0,1
+2,3,Chhattisgarh,1,0,0,0
+3,4,Delhi,29,1,6,1
+4,5,Gujarat,32,1,0,1
+5,6,Haryana,14,14,11,0
+6,7,Himachal Pradesh,3,0,0,1
+7,8,Karnataka,37,0,3,1
+8,9,Kerala,87,8,4,0
+9,10,Madhya Pradesh,7,0,0,0
+10,11,Maharashtra,86,3,0,2
+11,12,Manipur,1,0,0,0
+12,13,Odisha,2,0,0,0
+13,14,Puducherry,1,0,0,0
+14,15,Punjab,29,0,0,1
+15,16,Rajasthan,30,2,3,0
+16,17,Tamil Nadu,13,2,1,0
+17,18,Telengana,25,10,1,0
+18,19,Chandigarh,7,0,0,0
+19,20,Jammu and Kashmir,4,0,0,0
+20,21,Ladakh,13,0,0,0
+21,22,Uttar Pradesh,32,1,11,0
+22,23,Uttarakhand,3,1,0,0
+23,24,West Bengal,9,0,0,1
+24,Total number of confirmed cases in India,Total number of confirmed cases in India,476,43,40,9
