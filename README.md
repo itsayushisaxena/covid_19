@@ -14,4 +14,3 @@ To extract the data from Ministry of Health and Family Welfare | Government of I
 
 You can directly use this code in your program, android application, web application or in a website to show the COVID-19 outbreak (spread) statistics in India.
 
-**Stay home, stay safe!**
